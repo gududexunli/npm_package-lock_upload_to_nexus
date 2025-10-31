@@ -1,0 +1,2 @@
+# npm_package-lock_upload_to_nexus
+基于package-lock.json，自动下载所有依赖的tar包并自动上传到指定的nexus上
