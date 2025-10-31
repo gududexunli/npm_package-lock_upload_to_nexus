@@ -1,0 +1,9 @@
+[project]
+name = "ll-tool3"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "requests==2.32.5",
+    "tqdm==4.67.1",
+]
